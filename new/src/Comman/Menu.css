@@ -1,0 +1,18 @@
+.nav-item .nav-link.active {
+    color: white; /* Change color and thickness as needed */
+    width: 100%;
+    display: block;
+  }
+
+  .nav-item{
+    width: auto;
+    display: inline;
+  margin-left: 70px;
+   
+    color: white;
+    font-weight: bold;
+  
+ 
+  }
+
+ 

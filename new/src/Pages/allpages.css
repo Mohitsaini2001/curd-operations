@@ -1,0 +1,79 @@
+.about{
+    padding: 20px; text-align: justify;
+}
+.about h2{
+    margin: 20px 0px; border: solid grey; font-weight: bold; color : gray; font-style: italic
+}
+.about p{
+    color: chocolate; font-size: 20px;
+}
+
+.displayData{
+    padding: 20px;
+}
+.mytable{
+    width: 100%; 
+    text-align: center;
+}
+
+.mytable tr{
+    height: 42px;
+}
+
+.myform{
+
+    width: 50%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+   margin-left: 350px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+ 
+
+
+}
+
+.importdata label{
+    display: block;
+    padding-bottom: 10px;
+}
+.importdata input{
+    display: block;
+    width: 100%;
+
+}
+
+
+.importdata [type="submit"]{
+  margin-top: 20px;
+  background-color: orange;
+  padding: 7px;
+  color: white;
+  font-size: 15px;
+ font-weight: bolder;
+}
+
+.myheading{
+    text-align: center;
+    margin: 15px 0px;
+
+}
+
+.myinput{
+    border: none;
+    width: 35%;
+}
+.myinput:focus{
+    outline: none;
+}
+.outer{
+    text-align: center;
+    padding: 15px;
+}
+.inner{
+    border: solid;
+    padding: 8px 8px 8px 0px;
+    
+}
+.inner .myicon{
+    font-size: 20px;
+}

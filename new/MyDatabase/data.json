@@ -1,0 +1,18 @@
+{
+  "User": [
+    {
+      "name": "vishal sharma",
+      "age": "22",
+      "city": "BULANDSHAHR",
+      "email": "vishal2004saini@gmail.com",
+      "id": "132f"
+    },
+    {
+      "id": "0347",
+      "name": "Mohit Saini",
+      "age": "20",
+      "city": "BULANDSHAHR",
+      "email": "msaini4895748@gmail.com"
+    }
+  ]
+}

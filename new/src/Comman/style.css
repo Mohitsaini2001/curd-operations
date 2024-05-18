@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header{
+    padding: 40px; text-align: center; background-color: goldenrod;
+    font-size: 4vw; font-weight: bold  ; color: white; 
+   
+}
+.header:p{
+    margin-top: 2px;
+}
+.menu{
+    padding: 17px 0px;
+    background: black
+
+}
+.mylink{
+    padding:  100px; color: white; text-decoration: none; font-size: 19px; 
+}
+.mylink:hover{
+    color: rebeccapurple
+}
+.footer{
+    padding: 15px; background: chocolate; text-align: center; color: white;
+    font-size: 20px; font-weight: bold;
+    
+}
